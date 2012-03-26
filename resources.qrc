@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/copy.png</file>
+        <file>resources/cut.png</file>
+        <file>resources/donkey32.png</file>
+        <file>resources/new.png</file>
+        <file>resources/open.png</file>
+        <file>resources/paste.png</file>
+        <file>resources/save.png</file>
+        <file>resources/redo.png</file>
+        <file>resources/undo.png</file>
+        <file>resources/delete.png</file>
+        <file>resources/font.png</file>
+        <file>resources/help.png</file>
+        <file>resources/recentfile.png</file>
+        <file>resources/saveas.png</file>
+        <file>resources/selectall.png</file>
+        <file>resources/find.png</file>
+        <file>resources/replace.png</file>
+        <file>resources/next.png</file>
+        <file>resources/previous.png</file>
+        <file>resources/color.png</file>
+        <file>resources/splash.png</file>
+        <file>resources/build.png</file>
+        <file>resources/run.png</file>
+        <file>resources/functioncomment.png</file>
+        <file>resources/functionlist.png</file>
+        <file>resources/recompose.png</file>
+        <file>resources/autocomple.png</file>
+        <file>resources/quickcomment.png</file>
+    </qresource>
+</RCC>
